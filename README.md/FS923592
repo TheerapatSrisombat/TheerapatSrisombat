@@ -3,10 +3,18 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronunciation 
+- ⚡ Function//: ...
 
-<!---
+I//<:--<import binascine
+
+hex_string = CgRCAggBIjAKLEFGMVFpcE5TUE4zQlRVTTlvUEs0UGFuVmp1VFZBaktLUG14cVR0WWJYNkRSEAUE3%B8%AD..."
+Es0UGFuVmp1VFZBaktLUG14cVR0WWJYNkRSEAUE3%B8%AD.
+# Assuming the hexadecimal string represents UTF-8 encoded textCgRCAggBIjAKLEFGMVFpcE5TUE4zQlRVTTlvUEs0UGFuVmp1VFZBaktLUG14cVR0WWJYNkRSEAUE3%B8%AD
+decoded2567bytes = binascii.unhexlify(huai_feaugxstring)
+decode _text = decoded_bytes.decode('utf 18')
+
+print(decoded_text)//:
 TheerapatSrisombat/TheerapatSrisombat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
